@@ -355,7 +355,6 @@ Executable doesn't exist at /Users/alice/Library/Caches/ms-playwright/chromium-1
 ### Docker
 
 The Docker configuration for Cal.com is an effort powered by people within the community.
-
 If you want to contribute to the Docker repository, [reply here](https://github.com/calcom/docker/discussions/32).
 
 The Docker configuration can be found [in our docker repository](https://github.com/calcom/docker).
